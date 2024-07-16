@@ -6,8 +6,8 @@ En aquest projecte podras trobar un petit analitzador de tipus anomenat HinNer q
 
 ### Instalar Antlr
 ```bash
-    pip install antlr4-tools antlr4
-    pip install antlr4-python3-runtime
+pip install antlr4-tools antlr4
+pip install antlr4-python3-runtime
 ```
 ### Instalar Streamlit
 ```bash

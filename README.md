@@ -1,4 +1,5 @@
 # Projecte LP
+(Antlr && Python)
 
 En aquest projecte podras trobar un petit analitzador de tipus anomenat HinNer que pot codificar nombres naturals, variables, alguns operadors en notació prefixa, parèntesis, l'aplicació i l'abstracció en llenguatge tipus Haskell amb un sistema d'inferència de tipus seguint el algorisme de Hindley-Milner.
 
